@@ -2,8 +2,8 @@
 
 body {
   font-family:'Segoe UI', Verdana, sans-serif;
-  background-color: black; 
-  color: white;
+  background-color: rgb(0, 0, 0); 
+  color: rgb(255, 255, 255);
   font-size: 16px;
 }
 
